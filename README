@@ -1,0 +1,20 @@
+Checkvist is a todo / task list web app with some really spiffy features
+such as collaboration, import/export and so on. The Checkvist Chrome
+extension allows you to easily check and interact with your Checkvist
+account without interrupting your workflow by opening a new tab.
+
+changelog:
+2012-04-09 v1.0.3
+support redirecting to the last visited list
+
+2010-03-29 v1.0.2
+allow vertical scrolling inside the popup
+
+2009-12-13 v1.0.1
+minor visual update (higher quality large icon)
+
+2009-12-12 v1.0
+first release
+
+The source code of this extensions is now available at
+https://github.com/allixsenos/chrome-checkvist
