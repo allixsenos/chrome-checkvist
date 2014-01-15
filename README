@@ -4,6 +4,11 @@ extension allows you to easily check and interact with your Checkvist
 account without interrupting your workflow by opening a new tab.
 
 changelog:
+
+2014-01-15 v1.0.4
+add list filter field, as in main Checkvist application
+rework header presentation and styles, move "open checkvist" link under user popup
+
 2012-04-09 v1.0.3
 support redirecting to the last visited list
 

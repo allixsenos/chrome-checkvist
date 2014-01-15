@@ -1,8 +1,9 @@
 {
-   "browser_action": {
-      "default_icon": "favicon.ico",
-      "default_title": "View List",
-      "popup": "popout.html"
+  "manifest_version": 2,
+  "browser_action": {
+      "default_icon": "favicon.png",
+      "default_title": "View Lists",
+      "default_popup": "popout.html"
    },
    "description": "Quickly check your Checkvist without leaving the page.",
    "icons": {
@@ -11,5 +12,5 @@
    "name": "Checkvist",
    "permissions": [ "tabs", "bookmarks", "http://*.google.com/", "https://*.google.com/" ],
    "update_url": "http://clients2.google.com/service/update2/crx",
-   "version": "1.0.3"
+   "version": "1.0.4"
 }
